@@ -28,7 +28,8 @@ def number_to_words(value,currency= "CORDOBAS"):
     
     if int(numbers[0])==0:
         words.append( "CERO ")
-    
+    elif int(numbers[0])==100:
+        words.append( "CIEN ")
     else:
         numbers = list(numbers[0])
         n = len(numbers)    
