@@ -10,8 +10,8 @@ I'm a passionate advocate for remote teams, agile, debugging and helping others 
 - 🔭 I’m currently working on *python, ruby on rails*
 - 🌱 I’m currently learning *Go*
 - 🤔 I’m looking for: both a mentor and a mentee
-- 💬 What could I talk for 30 minutes about with absolutely no preparation?: parenting, professional and personal growth, python
-- 📫 How to reach me:  linkedin.com/in/luiscarlosmejia  and twitter.com/lcmejia19
+- 💬 What could I talk for 30 minutes about with absolutely no preparation?: parenting, professional/personal growth, python
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luiscarlosmejia/) and [twitter](https://twitter.com/lcmejia19)
 - ⚡ Fun fact: I'm a terrible singer but love singing.
 
 ### My favorite repos
