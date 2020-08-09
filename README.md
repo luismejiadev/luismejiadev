@@ -17,3 +17,4 @@ I'm a passionate advocate for remote teams, agile, debugging and helping others 
 ### My favorite repos
 
 👇 I have pinned some of my favorite posts below, take a look 👇
+
