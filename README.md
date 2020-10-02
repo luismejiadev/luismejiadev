@@ -1,4 +1,4 @@
-## Hi, my name is Luis Mejia and I'm a Senior Software Developer based on Nicaragua.
+## Hi, my name is Luis Mejia and I'm a Senior Software Developer based on Nicaragua and working full time remote.
 
 
 I love python, I like ruby and I'm in a love-hate relationship with javascript.
